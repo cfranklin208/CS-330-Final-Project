@@ -1,1 +1,2 @@
 # CS-330-Final-Project
+While creating this project I learned many new skills. I learned about creating 3D meshes, blending, texturing, and much more. I Followed a design process of hand drawing an image, breaking it into pieces, and then constructing those pieces using basic shapes. I used an incremental aproach of development in this project. I focused on one shape at a time to perfect each object. 
